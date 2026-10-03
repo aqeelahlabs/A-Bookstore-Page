@@ -1,28 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>XYZ Bookstore Page</title>
-</head>
-<body>
-  <h1>XYZ Bookstore</h1>
-  <p>Browse our collection of amazing books!</p>
-  <div class="card-container">
-    <div class="card" id="sally-adventure-book">
-      <h2>Sally's SciFi Adventure</h2>
-      <p>This is an epic story of Sally and her dog Rex as they navigate through other worlds.</p>
-      <button class="btn">Buy Now</button>
-    </div>
-    <div class="card" id="dave-cooking-book">
-      <h2>Dave's Cooking Adventure</h2>
-      <p>This is the story of Dave as he learns to cook everything from pancakes to pasta, one recipe at a time.</p>
-      <button class="btn">Buy Now</button>
-    </div>
-  </div>
-  <p>Review your selections and continue to checkout.</p>
-  <div class="btn-container">
-<button id="view-cart-btn" class="btn">View Cart</button>
-  <button id="checkout-btn" class="btn">Checkout</button>    
-  </div>
-</body>
-</html>
+# XYZ Bookstore Page
+
+A simple bookstore web page that displays two book cards and cart buttons. Built as part of the freeCodeCamp curriculum.
+
+## Live Demo
+
+[View the project]
+
+## Features
+
+- A page title and short introduction
+- Two book cards, each with a title, description and "Buy Now" button
+- "View Cart" and "Checkout" buttons at the bottom of the page
+
+## What I Practised
+
+- Structuring a basic HTML5 page
+- Grouping content with `div` containers
+- Using `class` and `id` attributes to label elements for styling and scripting
+- Adding `button` elements
+- Creating a heading hierarchy with `h1` and `h2`
+
+## Built With
+
+- HTML5
+
+## Run It Locally
+
+1. Clone the repository:
+```
+   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+```
+2. Open `index.html` in your browser.
+
+## Author
+
+Aqeelah, [@aqeelahlabs](https://github.com/aqeelahlabs)
