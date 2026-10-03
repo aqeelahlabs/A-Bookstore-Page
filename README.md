@@ -4,7 +4,7 @@ A simple bookstore web page that displays two book cards and cart buttons. Built
 
 ## Live Demo
 
-[View the project]
+https://aqeelahlabs.github.io/A-Bookstore-Page/
 
 ## Features
 
